@@ -78,7 +78,7 @@ http://10.16.100.212/iccftps12/iccftps12sasd1/Movies/Hindi/Antim%20The%20Final%2
         #EXTINF:-1,Bangladeshi
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangladeshi", Asian TV
-http://103.161.2.142/hls/Asian_TV.m3u8?token=thenayeemparvez
+http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangladeshi", ATN Bangla
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8?token=thenayeemparvez
@@ -102,7 +102,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8?token=thenayeemparvez
 
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png",Channel 9
-https://bdtoonpromax.000webhostapp.com/toondit.php?id=channel_9&e=NayeemParvez.m3u8
+http://10.16.100.207:8082/sports/Channel9_1st0p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangladeshi", Channel 24
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8?token=thenayeemparvez
@@ -111,7 +111,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://tempabs.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8?token=thenayeemparvez
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Bangladeshi", Deepto TV HD
-https://bdtoonpromax.000webhostapp.com/toondit.php?id=deepto_tv&e=NayeemParvez.m3u8
+http://10.16.100.203:8082/bangla/deeptoo_riptv_21.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangladeshi", Ekushey TV
 http://live.ekushey-tv.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8?token=thenayeemparvez
@@ -135,7 +135,7 @@ http://103.159.4.38:5868/BD-BANGLA-18/index.m3u8?token=thenayeemparvez
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8?token=thenayeemparvez
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fraEjzm.png" group-title="Bangladeshi", SATV
-https://bdtoonpromax.000webhostapp.com/toondit.php?id=sa_tv&e=NayeemParvez.m3u8
+http://10.16.100.245/hindi/s@tv_1st0p.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIKoy-Sq5C5ia5_vB6NztQk_G_Dh4DUqoOIQ&usqp=CAU" group-title="Bangladeshi",Sangsad TV
 http://103.106.2.149:13456/sangsad.m3u8?token=thenayeemparvez
@@ -144,10 +144,10 @@ http://103.106.2.149:13456/sangsad.m3u8?token=thenayeemparvez
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8?token=thenayeemparvez
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i8T9qQs.png" group-title="Bangladeshi", Ekattor TV HD
-https://bdtoonpromax.000webhostapp.com/toondit.php?id=ekattor_tv&e=NayeemParvez.m3u8
+http://10.16.100.208:8082/hindi/ek@ttOrTV_1$tOp.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kviJN1i.png" group-title="Bangladeshi", Independent TV
-https://bdtoonpromax.000webhostapp.com/toondit.php?id=independent_tv&e=NayeemParvez.m3u8
+http://172.17.17.19:8088/hls2/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ftu2Rt.jpg" group-title="Bangladeshi", Maasranga TV HD
 http://103.159.4.38:5868/BD-BANGLA-19/index.m3u8?token=thenayeemparvez
@@ -197,7 +197,7 @@ http://opplex.tv:8080/5914/5914/167831
         #EXTINF:-1,Indian Hindi
 
 #EXTINF:-1 group-title="Indian Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png", Star Plus HD
-http://183.178.58.115:8013/0.m3u8?token=thenayeemparvez
+http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8?token=thenayeemparvez
 
 #EXTINF:-1 group-title="Indian Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTUPYrC8q4FVTRnLHg1vO39yV8lYXV6D36Ig&usqp=CAU", Star Bharat HD
 http://146.19.16.55:25461/live/DM_Snappyarr/adfsgbhgsvdfv/241778.m3u8?token=ShpcUxVdEgoVVAQDVVwDUg1XVgIGAgAEXAAIVAQPAFNSCFAEA1RUCVNAGxESEBMBWVs5WVMUDVBQAAdTXhoQFkJdRm0PURIKFVoOAVBVQ0gaQg9dUhQNUkgTQA0CFAgNRFRYHkRQSERSEFlSDTsFAU5fBVUVDFkXCF0cRglYbQdUVVVcAhcKEgZAGxEIFxFGAlgTXFsaFQANRUIFElMQWV9NWF5KF1NfQgxDQRhGW0ZoekQcFVNPFgFfQw0JWBBZE1UHR14XHBJeEWhBBBcVFl1XC1VFFA1AVRMcRgtXSjxSV1pcA1ZEWVgMRBFbRlRUCAZEHBVbWAwNRV8WOUZbBxMCWkcKWU0=
@@ -273,7 +273,7 @@ http://103.153.39.36:8000/play/a01x
 
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUmSXzGpKgxtnDFQP9V_elH7DAXaYVQG9CXg&usqp=CAU", Duronto
-https://bdtoonpromax.000webhostapp.com/toondit.php?id=duronto_tv&e=NayeemParvez.m3u8
+https://live2.bd-cast.net/direct/shark2.dyndns.tv:3232/ban-duronto/tracks-v1a1/mono.m3u8
 
 
            #EXTINF:-1,Sports
@@ -300,10 +300,10 @@ https://durbinlive.com:443/live/jio?c=Dsports_HD&q=800&e=NayeemParvez.m3u8
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHjjgxuYmcx2WYEZ7J6c1dS-sml4fiYbpIew&usqp=CAU", Star Sports 1 HD Hindi
-http://183.178.58.115:8016/0.m3u8?token=thenayeemparvez
+http://opplex.tv:8080/4432/4432/167573?token=thenayeemparvez
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHjjgxuYmcx2WYEZ7J6c1dS-sml4fiYbpIew&usqp=CAU", Star Sports 1 HD
-http://183.178.58.115:8019/0.m3u8?token=thenayeemparvez
+http://146.19.16.55:25461/live/DM_Snappyarr/adfsgbhgsvdfv/241784.m3u8?token=ShpcUxVdEgoVVAQDVVwDUg1XVgIGAgAEXAAIVAQPAFNSCFAEA1RUCVNAGxESEBMBWVs5WVMUDVBQAAdTXhoQFkJdRm0PURIKFVoOAVBVQ0gaQg9dUhQNUkgTQA0CFAgNRFRYHkRQSERSEFlSDTsFAU5fBVUVDFkXCF0cRglYbQdUVVVcAhcKEgZAGxEIFxFGAlgTXFsaFQANRUIFElMQWV9NWF5KF1NfQgxDQRhGW0ZoekQcFVNPFgFfQw0JWBBZE1UHR14XHBJeEWhBBBcVFl1XC1VFFA1AVRMcRgtXSjxSV1pcA1ZEWVgMRBFbRlRUCAZEHBVbWAwNRV8WOUZbBxMCWkcKWU0=
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHAU6tD_j_ab6hj42g1QYWEeHuGksJymigeA&usqp=CAU", Star Sports 2 HD
 http://146.19.16.55:25461/live/DM_Snappyarr/adfsgbhgsvdfv/241785.m3u8?token=ShpcUxVdEgoVVAQDVVwDUg1XVgIGAgAEXAAIVAQPAFNSCFAEA1RUCVNAGxESEBMBWVs5WVMUDVBQAAdTXhoQFkJdRm0PURIKFVoOAVBVQ0gaQg9dUhQNUkgTQA0CFAgNRFRYHkRQSERSEFlSDTsFAU5fBVUVDFkXCF0cRglYbQdUVVVcAhcKEgZAGxEIFxFGAlgTXFsaFQANRUIFElMQWV9NWF5KF1NfQgxDQRhGW0ZoekQcFVNPFgFfQw0JWBBZE1UHR14XHBJeEWhBBBcVFl1XC1VFFA1AVRMcRgtXSjxSV1pcA1ZEWVgMRBFbRlRUCAZEHBVbWAwNRV8WOUZbBxMCWkcKWU0=
@@ -318,13 +318,13 @@ http://103.70.140.27:8080/hls/gtv.m3u8?token=thenayeemparvez
 http://172.17.17.19:8088/hls1/live.m3u8?token=thenayeemparvez
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi TV (4)
-https://bdtoonpromax.000webhostapp.com/toondit.php?id=gazi_tv&e=NayeemParvez.m3u8
+http://172.27.27.3:8088/hls/01_Gazitv.m3u8?token=thenayeemparvez
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports HD (1)
 http://10.16.100.207:8082/sports/tSpots_loacal.m3u8?token=thenayeemparvez
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports HD (2)
-https://bdtoonpromax.000webhostapp.com/toondit.php?id=t_sports&e=NayeemParvez.m3u8
+http://148.72.155.84:80/T-sports_ENC/video.m3u8?token=thenayeemparvez
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports HD (3)
 http://172.17.17.19:8088/hls6/live.m3u8?token=thenayeemparvez
@@ -385,7 +385,7 @@ http://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_360p/index.m3u8?token=
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8?token=thenayeemparvez
 
 #EXTINF:-1 group-title="Indian Music & Movie Channels" tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Indian Music & Movie Channels", Star Gold HD
-http://183.178.58.115:8025/0.m3u8?token=thenayeemparvez
+http://148.72.155.84:80/Stargold-ENC/video.m3u8?token=thenayeemparvez
 
 #EXTINF:-1 group-title="Indian Music & Movie Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGVINjrER0IelGsPeN7CenZtEhinNvdMIG9cW7GhVa39F1Sl1ZZt8wM7A&s=10", Star Gold Select HD
 http://148.72.155.84:80/StarGoldSelectHD/video.m3u8?token=thenayeemparvez
@@ -420,10 +420,10 @@ https://durbinlive.com:443/live/jio?c=Animal_Planet_HD&q=800&e=NayeemParvez.m3u8
 https://durbinlive.com:443/live/jio?c=Discovery_Channel_Hindi&q=800&e=NayeemParvez.m3u8
 
 #EXTINF:-1 group-title="Infotainment & English Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png", National Geographic
-http://103.161.2.142/hls/ngohd.m3u8
+
 
 #EXTINF:-1 group-title="Infotainment & English Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png", Nat Geo Wild
-http://103.161.2.142/hls/wild.m3u8
+
 
 #EXTINF:-1 group-title="Infotainment & English Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png", AXN
 http://ip2121.com:8081/live/AXN_Y/chunks.m3u8
@@ -486,10 +486,10 @@ http://172.17.17.19:8088/hls1/live.m3u8?token=thenayeemparvez
 http://172.17.17.19:8088/hls6/live.m3u8?token=thenayeemparvez
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfki1svnL_wO86CzAKhIWl1SwKMMO6uMd-aw&usqp=CAU" group-title="BDIX Server (Not work for all)", Sony Sab HD (VE)
-http://172.17.17.19:8088/hls/otp_112_sonysabhd.m3u8?token=thenayeemparvez
+http://172.17.17.19:8088/hls/16_sony_sab.m3u8?token=thenayeemparvez
 
 #EXTINF:-1 group-title="BDIX Server (Not work for all)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png",Star Plus HD (VE)
-http://172.17.17.19:8088/hls/otp_111_StarPlusHD.m3u8?token=thenayeemparvez
+http://172.17.17.19:8088/hls/09starplus.m3u8?token=thenayeemparvez
 
 #EXTINF:-1 group-title="BDIX Server (Not work for all)" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png",Sony Ten 1 (VE)
 http://172.17.17.19:8088/hls3/live.m3u8?token=thenayeemparvez
@@ -498,7 +498,7 @@ http://172.17.17.19:8088/hls3/live.m3u8?token=thenayeemparvez
 http://172.17.17.19:8088/hls4/live.m3u8?token=thenayeemparvez
 
 #EXTINF:-1 group-title="BDIX Server (Not work for all)" tvg-logo="https://i.ibb.co/wzkBYm5/Sony-Max-HD.png", Sony Max HD (VE)
-http://172.17.17.19:8088/hls/otp_113_sonymaxhd.m3u8
+http://172.17.17.19:8088/hls/14sonymax.m3u8
 
 
 
@@ -570,7 +570,7 @@ http://103.161.2.142/hls/axn.m3u8
 #EXTINF:-1,Backup Channels 
 
 #EXTINF:-1 group-title="Backup Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_iMLevq8DnCeBFfHM1W1AAPvxTD-9CHwDA&usqp=CAU",Sony Six HD (Backup)
-http://183.178.58.115:8022/0.m3u8?token=thenayeemparvez
+https://internal.softwarewellion.com/proxy.php?http://jo123.biz/jweb/m3u8.php?c=Six_HD&q=800&e=NayeemParvez.m3u8
 
 #EXTINF:-1 group-title="Backup Channels" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png",Sony Ten 1 HD (Backup)
 https://internal.softwarewellion.com/proxy.php?http://jo123.biz/jweb/m3u8.php?c=Ten_HD&q=800&e=NayeemParvez.m3u8
@@ -582,7 +582,7 @@ https://internal.softwarewellion.com/proxy.php?http://jo123.biz/jweb/m3u8.php?c=
 https://internal.softwarewellion.com/proxy.php?http://jo123.biz/jweb/m3u8.php?c=Ten3_HD&q=800&e=NayeemParvez.m3u8
 
 #EXTINF:-1 group-title="Backup Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfki1svnL_wO86CzAKhIWl1SwKMMO6uMd-aw&usqp=CAU", Sony Sab HD (Backup)
-http://146.19.16.55:25461/live/DM_Snappyarr/adfsgbhgsvdfv/241777.m3u8?token=ShpcUxVdEgoVB1ECBVRQAQoCBAEEUAUAVAFSUQICC1YJWQMBUVMCUgJAGxESEBMBWVs5WVMUDVBQAAdTURoQFkJdRm0PURIKFVoOAVBVQ0gaQg9dUhQNUkgTQA0CFAgNRFRYHkRQSERSEFlSDTsFAU5fBVUVDFkXCF0cRglYbQdUVVVcAhcKEgZAGxEIFxFGAlgTXFsaFQANRUIFElMQWV9NWF5KF1NfQgxDQRhGW0ZoekQcFVNPFgFfQw0JWBBZE1UHR14XHBJeEWhBBBcVFl1XC1VFFA1AVRMcRgtXSjxSV1pcA1ZEWVgMRBFbRlRUCAZEHBVbWAwNRV8WOUZbBxMCWkcKWU0=
+
 
 #EXTINF:-1 group-title="Backup Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQosKbYUnCjPLRjtn60p5xSDCtj74uo0SP3Qg&usqp=CAU", Sony Sab (Backup)
 https://internal.softwarewellion.com/proxy.php?http://jo123.biz/jweb/m3u8.php?c=Sony_SAB&q=800&e=NayeemParvez.m3u8
